@@ -1,0 +1,29 @@
+--- Script 1 ---
+Hook: "Still living with daily power cuts?"
+Problem: "Every night, no light, no comfort."
+Solution: "I switched to solar and everything changed."
+CTA: "Get your solar system today."
+
+--- Script 2 ---
+Hook: "How much do you spend on fuel every month?"
+Problem: "Fuel prices keep increasing."
+Solution: "Solar helped me cut my expenses."
+CTA: "Start saving now."
+
+--- Script 3 ---
+Hook: "No electricity again?"
+Problem: "Business stops every time power goes out."
+Solution: "With solar, I stay open all day."
+CTA: "Don’t lose customers anymore."
+
+--- Script 4 ---
+Hook: "Stop wasting money on generators."
+Problem: "Noise, fuel, maintenance..."
+Solution: "Solar is silent and reliable."
+CTA: "Make the switch today."
+
+--- Script 5 ---
+Hook: "What if you had power 24/7?"
+Problem: "Unpredictable electricity."
+Solution: "Solar gives me full control."
+CTA: "Contact us now."
